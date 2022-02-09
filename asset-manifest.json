@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reviewpage/static/css/main.3cd109ab.css",
+    "main.js": "/reviewpage/static/js/main.0beae438.js",
+    "static/media/image14.png": "/reviewpage/static/media/image14.bd4c6f0a5d480fa3a5ff.png",
+    "static/media/ExamPal.png": "/reviewpage/static/media/ExamPal.01ae55e5f974a013533e.png",
+    "static/media/tablepic0.png": "/reviewpage/static/media/tablepic0.2c57eb994d53d9b4df59.png",
+    "index.html": "/reviewpage/index.html",
+    "main.3cd109ab.css.map": "/reviewpage/static/css/main.3cd109ab.css.map",
+    "main.0beae438.js.map": "/reviewpage/static/js/main.0beae438.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd109ab.css",
+    "static/js/main.0beae438.js"
+  ]
+}
